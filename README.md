@@ -1,5 +1,5 @@
 # 💫 Hi! I'm Tymonsky!
-👀 I'm a Polish fullstack developer!
+👀 I'm a Polish fullstack developer!<br> 
 🔭 Currently working on CoffeeBeard (Sferaa) Discord bot & website.<br> 
 
 
